@@ -1,0 +1,11 @@
+---
+layout: default
+changefreq: weekly
+priority: 1
+---
+<h1>Voluptatem ex</h1>
+<ul>
+{%- for post in collections.posts -%}
+  <li><a href="{{ post.url | url }}">{{ post.data.title }}</a> - {{ post.data.date | dateDisplay }}</li>
+{%- endfor -%}
+</ul>
