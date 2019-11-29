@@ -1,1 +1,1 @@
-This is a start of something new
+This is a start of something new.
