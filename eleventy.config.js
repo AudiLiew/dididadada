@@ -10,7 +10,7 @@ module.exports = eleventyConfig => {
   };
 
   const now = new Date();
-  const livePosts = p => p.date <= now && !p.data.draft;
+  const livePosts = p => p.date <= now && (p.data.permalink !== false);
 
   let markdownLib = markdownIt(options).use(markdownItAttrs);
   
