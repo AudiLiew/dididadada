@@ -3,10 +3,6 @@
     {
       "label": "Home",
       "url": "/"
-    },
-    {
-      "label": "Contact",
-      "url": "/contact/"
     }
   ]
 }
