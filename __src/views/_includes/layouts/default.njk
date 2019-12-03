@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  {% if renderData.title %}
+  <title>{{ renderData.title }}</title>
+  {% else %}
+  <title>{{title}}{% if page.url == '/' %}{{ site.name }} - {{ site.description }}{% endif %}</title>    
+  {% endif %}
+  <meta name="description" content="{% if meta_description %}{{ meta_description }}{% else %}{{ excerpt }}{% endif %}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="stylesheet" href="/assets/main.css">
+
+  {# TODO: Social meta tags here #}
+
+  {# <link rel="icon" type="image/png" href="{{ site.images.favicon }}"> #}
+  <script>document.documentElement.className="js"</script>
+</head>
+<body{% if body_id %} id="{{ body_id }}"{% endif %}>
+  {# include header #}
+  {% include "../components/header.njk" %}
+  <main class="mainContent" data-barba="wrapper">
+    <div class="container{% if tags %}{% if "posts" in tags %} post{% endif %}{% endif %}" data-barba="container">
+      {# content #}
+      {{ content | safe }}
+    </div>
+  </main>
+
+  {# include footer #}
+  {% include "../components/footer.njk" %}
+
+  <div class="transition">
+    <div id="transition__plate" class="transition__plate"></div>
+    <div id="transition__bg" class="transition__bg"></div>
+  </div>
+  <script src='/assets/main.js'></script>
+</body>
+</html>

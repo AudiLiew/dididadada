@@ -1,0 +1,12 @@
+---
+layout: default
+changefreq: weekly
+priority: 1
+---
+<h1>Hello!</h1>
+<p>Welcome to my blog! I’m Jun, a designer from Singapore. In this blog, I write about my experiences — or lack of — in fatherhood. Enjoy :)</p>
+<ul class="posts-list">
+{%- for post in collections.posts -%}
+  <li><a href="{{ post.url | url }}" class="posts-list__link">{{ post.data.title }}</a> <span class="posts-list__date">{{ post.data.date | dateDisplay }}</span></li>
+{%- endfor -%}
+</ul>
