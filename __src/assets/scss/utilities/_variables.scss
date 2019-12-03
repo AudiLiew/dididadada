@@ -45,6 +45,9 @@ $gray-800: #343a40;
 $gray-900: #212529;
 $black:    #000;
 
+$clayGray: rgb(177, 174, 171);
+$blackAndBlue: rgb(36, 38, 39);
+
 $grays: ();
 $grays: map-merge((
   "50":  $gray-50,
@@ -63,7 +66,7 @@ $grays: map-merge((
 $blue:      #2a418f;
 $mondayBlue:#3b8aff;
 $lightBlue: #f0f8ff;
-$darkBlue:  #041344;
+$darkBlue:  #4c5761;
 $someBlue:  #5a7cea;
 $indigo:    #6610f2;
 $purple:    #6f42c1;
@@ -100,13 +103,13 @@ $colors: map-merge((
   "gray-dark":  $gray-800
 ), $colors);
 
-$bodyBg:        $white;
-$bodyText:      $gray-900;
+$bodyBg:        $blackAndBlue;
+$bodyText:      $clayGray;
 
-$headerBg:      $lightBlue;
-$headerShadow:  $gray-300;
+$headerBg:      darken($bodyBg, 2%); //$darkBlue;
+$headerShadow:  $gray-900;
 
 $mainNavLink:   $bodyText;
-$mainNavHoverBg:  darken($headerBg, 7%);
+$mainNavHoverBg:  lighten($headerBg, 10%);
 
 $link: $mondayBlue;
