@@ -2,6 +2,12 @@
 title: Count Down to Fatherhood
 permalink: countdown-to-fatherhood/
 date: 2019-12-03
+#mod_date: 2019-12-04
+meta_description: It’s finally going to happen. I’m going to be a dad soon!
+
+meta_og: true
+meta_og_description: It’s finally going to happen. I’m going to be a dad soon!
+# meta_og_image: 
 
 tags: 
   - fatherhood
