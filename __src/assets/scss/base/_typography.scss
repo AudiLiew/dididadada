@@ -62,3 +62,26 @@ a {
     text-decoration: underline;
   }
 }
+
+table {
+  margin-top: 1rem;
+  background-color: gray('800');
+}
+
+thead {
+  text-align: left;
+}
+
+th, td {
+  padding: 5px 15px;
+}
+
+th {
+  border-bottom: 1px solid $borderColour;
+}
+
+.notes {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  line-height: 1.4rem;
+}
