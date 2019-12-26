@@ -1,7 +1,7 @@
 ---
 title: First-time Parents Guide to Baby Bonus 2020
-permalink: false #/baby-bonus-singapore/
-date: 2019-12-04
+permalink: false #/baby-bonus-singapore/ #
+date: 2019-12-26
 #mod_date: 2019-12-04
 meta_description: It’s finally going to happen. I’m going to be a dad soon!
 
@@ -24,6 +24,9 @@ Can CDA be used for infant care?
 How long does it take to receive baby bonus after applying?
 
 
+EDIT IDEA:
+ - Rising cost of child-rearing
+
  -->
 
 ## What is Baby Bonus?
@@ -39,7 +42,7 @@ The Baby Bonus scheme consists of 2 components:
 
 I will touch on the CDA in a bit, but let's dig into the cash portion first shall we?
 
-### Baby Bonus: Cash Gift
+## Baby Bonus: Cash Gift
 
 For your first child, you will receive $8,000 in total. 
 
@@ -67,11 +70,32 @@ Child turns 18 months old | $1,000
   </li>
 </ol>
 
-## What is a CDA?
+### How to Receive the Baby Bonus Cash Gift?
 
-The Child Development Account (CDA) can only be used in your child's educational and healthcare expenses.
+To receive the cash gift, you'll need to provide the bank account details when you <a href="https://www.babybonus.msf.gov.sg/parent/web/enrolment-instruction?_afrLoop=18416975738619105&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D18416975738619105%26_afrWindowMode%3D0%26_adf.ctrl-state%3D6duztwbsm_13" target="_blank" rel="noopener">join the baby bonus scheme</a>. 
 
-You **cannot** withdraw the amount in your child's CDA as cash.
+You can submit the form from two months before the estimated date of delivery.
+
+## Baby Bonus: CDA
+
+The second component of baby bonus is the **Child Development Account** (CDA). 
+
+It is a special savings account which you can use for your child's **educational** needs, such as child-care centres, kindergartens, special education schools; and **healthcare** expenses, such as hospitals/clinics and pharmacies. You can view the list of approved institutions over <a href="https://www.babybonus.msf.gov.sg/ai-home/xhtml/layout/ListOfAI.faces" target="_blank" rel="noopener">here</a>.
+
+Money from this account can be used until your child turns 13, by which the balance will be transferred to a new <a href="https://www.moe.gov.sg/education/post-secondary/post-secondary-education-account/usage" target="_blank" rel="noopener">Post-Secondary Education Account (PSEA)</a>. 
+
+### CDA First Step Grant
+
+The Government will start off by gifting $3,000
+
+### How to Open a CDA?
+
+There are three banks that...
+
+Note: You **cannot** withdraw the amount in your child's CDA as cash.
+
+
+### How to Open a Child Development Account?
 
 <!-- 
  - https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Pages/Baby-Bonus-Scheme.aspx
@@ -79,5 +103,3 @@ You **cannot** withdraw the amount in your child's CDA as cash.
  - https://www.babybonus.msf.gov.sg/parent/web/about?_afrLoop=16941405388483305&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D16941405388483305%26_afrWindowMode%3D0%26_adf.ctrl-state%3D15w14d8jtb_17
  - 
 -->
-
-is meant to support the developmental needs of children, such as education and healthcare. Parents can use the CDA to pay for expenses at Approved Institutions such as child care centres, kindergartens, hospitals clinics and pharmacies.
