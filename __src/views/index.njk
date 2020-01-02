@@ -6,7 +6,9 @@ meta_description: Hi! I’m Jun from Singapore. I blog about fatherhood here �
 date: Last Modified
 ---
 <h1>Hello!</h1>
-<p>Welcome to my blog! I’m Jun, a designer from Singapore. In this blog, I write about my experiences — or lack of — in fatherhood. Enjoy :)</p>
+<p>Welcome to my blog! I’m Jun, a designer working out of Singapore. In this blog, I write about my experiences in my journey in fatherhood and reviews on useful household and baby products.</p>
+<p>I also touch on other parenthood tips and tricks. Enjoy :)</p>
+<h2>Posts</h2>
 <ul class="posts-list">
 {%- for post in collections.posts -%}
   <li><a href="{{ post.url | url }}" class="posts-list__link">{{ post.data.title }}</a> <span class="posts-list__date">{{ post.data.date | dateDisplay }}</span></li>
