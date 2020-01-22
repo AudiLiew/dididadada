@@ -8,7 +8,7 @@ sitemapIgnore: true
 {%- if (page.data.sitemapIgnore !== true) and (page.data.permalink !== false) %}
   <url>
     <loc>{{ site.domain }}{{ page.url }}</loc>
-    <lastmod>{{ page.date | htmlDateDisplay }}</lastmod>
+    <lastmod>{% if page.data.mod_date %}{{ page.data.mod_date | htmlDateDisplay }}{% else %}{{ page.date | htmlDateDisplay }}{% endif %}</lastmod>
     <changefreq>{{ page.data.changefreq or "monthly" }}</changefreq>
     <priority>{{ page.data.priority or "0.5" }}</priority>
   </url>

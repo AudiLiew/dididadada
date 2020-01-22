@@ -3,20 +3,43 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   {% if renderData.title %}
   <title>{{ renderData.title }}</title>
   {% else %}
   <title>{{title}}{% if page.url == '/' %}{{ site.name }} - {{ site.description }}{% endif %}</title>    
   {% endif %}
-  <meta name="description" content="{% if meta_description %}{{ meta_description }}{% else %}{{ excerpt }}{% endif %}">
+  {% if meta_description %}
+  <meta name="description" content="{{ meta_description }}">    
+  {% endif %}
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link rel="stylesheet" href="/assets/main.css">
 
-  {# TODO: Social meta tags here #}
+  {# Opengraph Metatags https://developers.facebook.com/docs/sharing/webmasters#markup #}
+  {% if meta_og %}
+  <meta property="og:type"        content="article" />
+  <meta property="og:url"         content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="{{ title }}" />
+  {% if meta_og_description %}
+  <meta property="og:description" content="{{ meta_og_description }}" />    
+  {% endif %}
+  {% if meta_og_image %}
+  <meta property="og:image"       content="{{ meta_og_image }}" />
+  {% endif %}
+  {% endif %}
 
   {# <link rel="icon" type="image/png" href="{{ site.images.favicon }}"> #}
   <script>document.documentElement.className="js"</script>
+
+  {# Google Analytics #}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153847073-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-153847073-1');
+  </script>
 </head>
 <body{% if body_id %} id="{{ body_id }}"{% endif %}>
   {# include header #}
