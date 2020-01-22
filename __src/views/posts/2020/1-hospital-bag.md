@@ -62,3 +62,17 @@ Outline:
 
 EDIT IDEA:
 #}
+
+## When to Pack Your Hospital Bag
+
+
+From 2016 to 2018, the majority of mothers gave birth at around 38<sup>th</sup> to 39<sup>th</sup> week. So it is a good idea to pack your bag around the 36<sup>th</sup> week.
+
+<figure>
+  <img src="/assets/img/2020/01/live-births-by-period-of-gestation-chart-(2016-2018,-singapore).svg" alt="Chart of live births by period of gestation from 2016 to 2018, Singapore">
+  <figcaption>Live births by period of gestation (2016 to 2018, Singapore). Data from <a href="https://data.gov.sg/dataset/live-births-by-period-of-gestation-birth-weight-and-child-gender" target="_blank"  rel="noopener">https://data.gov.sg/dataset/live-births-by-period-of-gestation-birth-weight-and-child-gender</a></figcaption>
+</figure>
+
+
+
+Pro-tip ✌🏻: Mummy-to-be, once you have prepared the items, have your significant other pack the items with you. So when you need something, he/she will know where it is in the bag.{class="post-bignote"}
