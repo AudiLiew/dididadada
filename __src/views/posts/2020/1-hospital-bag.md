@@ -1,7 +1,7 @@
 ---
-title: X Items to Bring to the Hospital for Delivery
+title: Essential Items to Bring to the Hospital for Delivery
 permalink: /hospital-bag-checklist/ #false #
-date: 2020-01-01
+date: 2020-01-25
 #mod_date: 2020-01-01
 meta_description: "Guys, prepare this list of items for a stress-free delivery."
 
@@ -61,6 +61,8 @@ Outline:
    - 
 
 EDIT IDEA:
+ - Link to thomson medical review
+
 #}
 
 ## When to Pack Your Hospital Bag
@@ -78,41 +80,11 @@ As I would be doing the administrative work, I packed the documents together wit
 
 My wife's bag consisted of her items and our baby's.
 
-### Daddy's List
+I will touch on what to bring for daddy later, for now let us go over the essential items for mommy and child.
 
-#### Hospital Admission Documents
+### Mommy and Baby's Bag
 
-Your gynae will pass you a set of documents around the 37<sup>th</sup> week. Ours included notes regarding my wife's pregnancy, and heartbeat print-outs of our baby from the <abbr title="Electrocardiogram">ECG</abbr>. Don't worry too much about what is inside, just bring the envelope provided by your gynae.
-
-#### NRICs / Identification Cards
-
-During the admission process, you will need to provide the NRICs of both parents. To make it easier to find, I'd placed both NRICs together with the following...
-
-#### Hospital Card (if you have one)
-
-We had signed up for Thomson Medical's membership and were provided with their card. This allowed us to enjoy some discounts on their services.
-
-#### Camera
-
-If Daddy is joining in the delivery suite or operating theatre---which I highly recommend, be sure to bring along a camera or at least your phone to capture the first few moments of your baby. These photographs are going to be priceless. 
-
-#### Change of Clothes
-
-s
-
-#### Pair of Slippers
-
-s
-
- - For Daddy
-   - Eye mask
-   - Ear plugs
-   - long pants
-   - pillow/sheet
-   - cash/credit card
-   - some form of entertainment
-
-### Outfits for Discharge (Mom, Dad, and Newborn)
+#### Outfits for Discharge
  - pack your going home outfit with the possibility of needing a c-section in mind. I packed pants that sat right on my incision and I was in agony on the way home.
    - loose comfortable clothes
    - swaddling blanket
@@ -133,3 +105,48 @@ s
    - Your cell phone charger likely won't reach the outlets on the wall from the bed so having that cord is incredibly handy (especially after a c section!)
 
 Pro-tip ✌🏻: Mummy-to-be, once you have prepared the items, have your significant other pack the items with you. So when you need something, he/she will know where it is in the bag.{class="post-bignote"}
+
+### Daddy's Bag
+
+#### Hospital Admission Documents
+
+Your gynae will pass you a set of documents around the 37<sup>th</sup> week. Ours included notes regarding my wife's pregnancy, and heartbeat print-outs of our baby from the <abbr title="Electrocardiogram">ECG</abbr>. Don't worry too much about what is inside, just bring the envelope provided by your gynae.
+
+#### NRICs / Identification Cards
+
+During the admission process, you will need to provide the NRICs of both parents. To make it easier to find, I placed both NRICs together with the following...
+
+#### Hospital Card (if you have one)
+
+We had signed up for Thomson Medical's membership and were provided with their card. This allowed us to enjoy some discounts on their services.
+
+#### Camera
+
+If Daddy is joining in the delivery suite or operating theatre---which I highly recommend, be sure to bring along a camera or at least your phone to capture the first few moments of your baby. These photographs are going to be priceless. 
+
+#### Change of Clothes
+
+For natural deliveries, the typical stay is for two nights, whereas for caesarean section, it is three. Bring enough clothes for those days plus a set of PJs.
+
+{# link to article about thomson review #}
+
+And lastly,
+
+#### Credit Card
+
+I know this seems obvious, but in times of panic, it is easy to forget this. Note: The hospital will require a deposit during admission.
+
+If you would like to improve the quality or comfort level during the stay, you can bring along the following:
+
+#### Pair of Slippers
+
+s
+
+ - For Daddy
+   - Eye mask
+   - Ear plugs
+   - long pants
+   - pillow/sheet
+   - cash/credit card
+   - some form of entertainment
+
