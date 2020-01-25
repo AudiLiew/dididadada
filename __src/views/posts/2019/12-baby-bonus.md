@@ -1,13 +1,15 @@
 ---
 title: First-time Parents Guide to Baby Bonus 2020
 permalink: /baby-bonus-singapore/ #false #
+heroImg: "2019/12/baby-bonus-hero.png"
+heroAlt: "some text"
 date: 2019-12-27
 #mod_date: 2019-12-25
 meta_description: "Baby Bonus scheme is a financial aid for Singaporean parents. It consists of two components: the cash gift 💰, and co-savings in the Child Development Account (CDA) 👶🏻."
 
 meta_og: true
 meta_og_description: "Baby Bonus scheme is a financial aid for Singaporean parents. It consists of two components: the cash gift, and co-savings in the Child Development Account (CDA)."
-# meta_og_image: 
+meta_og_image: "2019/12/baby-bonus-og.png"
 
 tags: 
   - fatherhood
