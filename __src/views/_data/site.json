@@ -5,5 +5,8 @@
   "domain": "https://www.dididadada.com",
   "author": {
     "name": "Jun"
+  },
+  "path": {
+    "img": "/assets/img/"
   }
 }

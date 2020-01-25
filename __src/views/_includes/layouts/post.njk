@@ -11,6 +11,9 @@ layout: default
     {% if mod_date %}
     <p class="meta__dateUpdated">Updated: <time datetime="{{ mod_date }}">{{ mod_date | dateDisplay }}</time></p>        
     {% endif %}
+  {% if heroImg %}
+    <img src="{{ site.path.img }}{{ heroImg }}" alt="{{ heroAlt }}">
+  {% endif %}
   </div>
 </header>
 <div class="post-content">
