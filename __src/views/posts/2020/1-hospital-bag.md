@@ -65,6 +65,8 @@ EDIT IDEA:
 
 #}
 
+With the approaching due date...
+
 ## When to Pack Your Hospital Bag
 
 From 2016 to 2018, the majority of mothers gave birth at around 38<sup>th</sup> to 39<sup>th</sup> week. So with that in mind, it is a good idea to pack your bag around the 36<sup>th</sup> week.
@@ -85,15 +87,19 @@ I will touch on what to bring for daddy later, for now let us go over the essent
 ### Mommy and Baby's Bag
 
 #### Outfits for Discharge
- - pack your going home outfit with the possibility of needing a c-section in mind. I packed pants that sat right on my incision and I was in agony on the way home.
-   - loose comfortable clothes
-   - swaddling blanket
- - Maternity/breast pads
- - personal comfort
+
+During your stay at the hospital, you will be provided with sets of hospital gown. When it is time for discharge, you can finally don your own clothes. But don't go aiming for your cropped top or body-hugging dresses.
+
+Wear loose comfortable clothes. Choose an outfit with a possibility of needing a c-section in mind.
+
+#### Maternity/breast pads
+
+Breast milk is <a href="https://www.healthxchange.sg/women/post-pregnancy/breastfeeding-health-benefits-baby" target="_blank">highly nutritious</a> for 
+
  - disposable panties
+ - swaddling blanket
+ - personal comfort
  - binder (c-sect)
- - For Mummy
- - For Newborn
  
  - Wet wipes
  - Extras:
