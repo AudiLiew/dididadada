@@ -43,7 +43,7 @@ Let's go:
 
 Baby Bonus is a financial aid provided by the Singapore Government to offset some of the cost of child-rearing. 
 
-It was <a href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/2000082001.htm" target="_blank" rel="noopener">first introduced</a> in 2000's National Day Rally, in an attempt to improve the declining birth rate in Singapore, and has since been <a href="https://www.strategygroup.gov.sg/images/chart7.png.pdf#page=37" target="_blank" rel="noopener">progressively enhanced</a> in 2004, 2008, and 2013. 
+It was {% extlink 'first introduced', 'https://www.nas.gov.sg/archivesonline/data/pdfdoc/2000082001.htm' %} in 2000's National Day Rally, in an attempt to improve the declining birth rate in Singapore, and has since been {% extlink 'progressively enhanced', 'https://www.strategygroup.gov.sg/images/chart7.png.pdf#page=37' %} in 2004, 2008, and 2013. 
 
 The Baby Bonus scheme consists of 2 components: 
 
@@ -71,9 +71,9 @@ Child turns 18 months old | $1,000
 <ol class="post-notes">
   <li id="note-child-birth">
   
-  There are three ways to register your child's birth. You can either register at the hospital your child is delivered; do a walk-in <a href="https://www.ica.gov.sg/citizen/birth/citizen_birth_register" target="_blank" rel="noopener">registration at <abbr title="Immigration & Checkpoints Authority">ICA</abbr></a>; or through the *Moments of Life* app. 
+  There are three ways to register your child's birth. You can either register at the hospital your child is delivered; do a walk-in {% extlink 'registration at ICA', 'https://www.ica.gov.sg/citizen/birth/citizen_birth_register' %}; or through the *Moments of Life* app. 
 
-  *Moments of Life* app store links: <a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol&hl=en_SG" target="_blank" rel="noopener">Android</a>, <a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blank" rel="noopener">iOS</a>.
+  *Moments of Life* app store links: {% extlink 'Android', 'https://play.google.com/store/apps/details?id=sg.gov.app.mol&hl=en_SG' %}, {% extlink 'iOS', 'https://apps.apple.com/sg/app/moments-of-life/id1383218758' %}.
   
   </li>
 </ol>
@@ -82,19 +82,19 @@ Child turns 18 months old | $1,000
 
 To receive the cash gift, you'll need to provide the bank account details when you join the baby bonus scheme. 
 
-You can either use the *Moments of Life* app mentioned earlier, or you can fill up this <a href="https://www.babybonus.msf.gov.sg/parent/web/enrolment-instruction?_afrLoop=18416975738619105&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D18416975738619105%26_afrWindowMode%3D0%26_adf.ctrl-state%3D6duztwbsm_13" target="_blank" rel="noopener">online form</a>.
+You can either use the *Moments of Life* app mentioned earlier, or you can fill up this {% extlink 'online form', 'https://www.babybonus.msf.gov.sg/parent/web/enrolment-instruction?_afrLoop=18416975738619105&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D18416975738619105%26_afrWindowMode%3D0%26_adf.ctrl-state%3D6duztwbsm_13' %}.
 
-Pro-tip ✌🏻: Use the *Moments of Life* app (<a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol&hl=en_SG" target="_blank" rel="noopener">Android</a>, <a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blank" rel="noopener">iOS</a>) as you can register your child's birth and apply for the baby bonus scheme at the same time.{class="post-bignote"}
+Pro-tip ✌🏻: Use the *Moments of Life* app ({% extlink 'Android', 'https://play.google.com/store/apps/details?id=sg.gov.app.mol&hl=en_SG' %}, {% extlink 'iOS', 'https://apps.apple.com/sg/app/moments-of-life/id1383218758' %}) as you can register your child's birth and apply for the baby bonus scheme at the same time.{class="post-bignote"}
 
 ## Baby Bonus: CDA
 
 The second component of baby bonus is the **Child Development Account** (CDA). 
 
-It is a special savings account which you can use for your child's **educational** needs, such as child-care centres, kindergartens, special education schools; and **healthcare** expenses, such as hospitals/clinics and pharmacies. You can view the list of approved institutions over <a href="https://www.babybonus.msf.gov.sg/ai-home/xhtml/layout/ListOfAI.faces" target="_blank" rel="noopener">here</a>.
+It is a special savings account which you can use for your child's **educational** needs, such as child-care centres, kindergartens, special education schools; and **healthcare** expenses, such as hospitals/clinics and pharmacies. You can view the list of approved institutions over {% extlink 'here', 'https://www.babybonus.msf.gov.sg/ai-home/xhtml/layout/ListOfAI.faces' %}.
 
 Note 📝: You **cannot** withdraw the amount in your child's CDA as cash.{class="post-bignote"}
 
-Not to worry, as the balance amount will be transferred to a new <a href="https://www.moe.gov.sg/education/post-secondary/post-secondary-education-account/usage" target="_blank" rel="noopener">Post-Secondary Education Account (PSEA)</a> when your child turns 13.
+Not to worry, as the balance amount will be transferred to a new {% extlink 'Post-Secondary Education Account (PSEA)', 'https://www.moe.gov.sg/education/post-secondary/post-secondary-education-account/usage' %} when your child turns 13.
 
 No money will be "eaten."
 
@@ -110,9 +110,9 @@ There are three banks that you can choose from when you apply for the baby bonus
 
 They are:
 
-  1. <a href="https://www.posb.com.sg/personal/deposits/savings-accounts/child-development-account" target="_blank" rel="noopener">POSB</a>;
-  2. <a href="https://www.ocbc.com/personal-banking/accounts/child-development-account.html" target="_blank" rel="noopener">OCBC</a>; and
-  3. <a href="https://www.uob.com.sg/personal/save/savings/child-development-account.page" target="_blank" rel="noopener">UOB</a>
+  1. {% extlink 'POSB', 'https://www.posb.com.sg/personal/deposits/savings-accounts/child-development-account' %};
+  2. {% extlink 'OCBC', 'https://www.ocbc.com/personal-banking/accounts/child-development-account.html' %}; and
+  3. {% extlink 'UOB', 'https://www.uob.com.sg/personal/save/savings/child-development-account.page' %}
 
 When you apply for the scheme, there will be an option to choose your preferred bank.
 
