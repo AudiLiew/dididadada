@@ -28,13 +28,17 @@ module.exports = eleventyConfig => {
   //  return collection.getFilteredByTag('blog').reverse()
   //})
 
+  // Shortcode for External links
+  eleventyConfig.addShortcode("extlink", (name, url) => {
+    return '<a href="'+ url +'" target="_blank" rel="noopener">'+ name +'</a>';
+  });
+
   // Get year for copyright
   eleventyConfig.addShortcode("showfullyear", (emptyVariableForThisToWork) => {
     let nowNow = new Date();
     let nowFullYear = nowNow.getFullYear();
     return nowFullYear + emptyVariableForThisToWork;
-  });
-  
+  });  
 
   // https://remysharp.com/2019/06/26/scheduled-and-draft-11ty-posts
   eleventyConfig.addCollection('posts', collection => {
