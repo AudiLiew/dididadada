@@ -1,12 +1,12 @@
 ---
-title: Essential Items to Bring to the Hospital for Delivery
+title: Items to Bring to the Hospital for Delivery
 permalink: /hospital-bag-checklist/ #false #
-date: 2020-01-25
+date: 2020-02-05
 #mod_date: 2020-01-01
-meta_description: "Guys, prepare this list of items for a stress-free delivery."
+meta_description: "Pack this list of items to prepare for your hospital delivery."
 
 meta_og: true
-meta_og_description: "Guys, prepare this list of items for a stress-free delivery."
+meta_og_description: "Pack this list of items to prepare for your hospital delivery."
 # meta_og_image: 
 
 tags: 
@@ -76,7 +76,7 @@ From 2016 to 2018, the majority of mothers gave birth at around 38<sup>th</sup> 
   <figcaption>Live births by period of gestation (2016 to 2018, Singapore). Data from {% extlink 'https://data.gov.sg/dataset/live-births-by-period-of-gestation-birth-weight-and-child-gender', 'https://data.gov.sg/dataset/live-births-by-period-of-gestation-birth-weight-and-child-gender' %}</figcaption>
 </figure>
 
-## Essential Items to Pack
+## Items to Pack
 
 As I would be doing the administrative work, I packed the documents together with the items I needed for the stay. 
 
@@ -86,26 +86,54 @@ I will touch on what to bring for daddy later, for now let us go over the essent
 
 ### Mommy and Baby's Bag
 
+First the essentials:
+
 #### Outfits for Discharge
 
-During your stay at the hospital, you will be provided with sets of hospital gown. When it is time for discharge, you can finally don your own clothes. But don't go aiming for your cropped top or body-hugging dresses.
+During your stay at the hospital, you will be provided with sets of hospital gown. When it is time for discharge, you can finally don your own clothes. But don't go reaching for your cropped top or body-hugging dresses.
 
-Wear loose comfortable clothes. Choose an outfit with a possibility of needing a c-section in mind.
+Wear loose comfortable clothes instead. Choose an outfit with a possibility of needing a c-section in mind. 
 
 #### Maternity/breast pads
 
-Breast milk is not only {% extlink 'highly nutritious for your baby', 'https://www.healthxchange.sg/women/post-pregnancy/breastfeeding-health-benefits-baby' %}, the early initiation and regular expression of breast milk is also {% extlink 'beneficial to mothers', 'https://www.ncbi.nlm.nih.gov/pubmed/29876577' %}. The nurses will likely encourage it too.
+Breast milk is not only {% extlink 'highly nutritious for your baby', 'https://www.healthxchange.sg/women/post-pregnancy/breastfeeding-health-benefits-baby' %}, the early initiation and regular expression of breast milk is also {% extlink 'beneficial to mothers', 'https://www.ncbi.nlm.nih.gov/pubmed/29876577' %}. The nurses at the hospital will likely encourage you to breast feed your child.
 
-Once you begin expressing, leakage can happen. This is where the pads come in. They work like sponges to soak up 
+Once you begin breast feeding, leakage can happen. 
+
+This is where the pads come in. They work like sponges to soak up any involuntary discharge.
 
 Side note: Our gynae recommended us to get fenugreek as a supplement to boost milk production.
 
- - disposable panties
+#### Disposable Panties
+
+After delivery it is a good idea to be wearing disposable panties to prevent staining your favourite pair of undergarment. 
+
+Go for the "granny" designs as they are often loose-fitting and have more coverage.
+
+<br>And if you have opted for a c-section, bring along the following items too:
+
+#### Wet Wipes
+
+You will be lying on your bed for the first two to three nights post delivery to minimise any aggravation to your wound---remember, c-sect *is* a major surgery.
+
+This means that you will not be able to bath during this period. *\*Yeah, I know*\*
+
+It is unlikely that you will develop any bed sores, but not bathing can feel yucky and uncomfortable.
+
+So wiping down with some wipes can make you feel that much cleaner. 
+
+#### Binder
+
+In an effort to regain their pre-pregnancy figure, some mothers have used abdominal binders to wrap up their tummies. Using it as a corset.
+
+But that is actually **not** the purpose of a binder. As our gynae put it, *"The binder not for slimming ah."*
+
+Abdominal binders can help to {% extlink 'reduce any postoperative pain', 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962320/' %} you may be having. It also compresses and provides support to your hip area. 
+
+Remember to align the incision line to the middle of the binder. It should resemble a micro-skirt.
+
  - swaddling blanket
- - personal comfort
- - binder (c-sect)
  
- - Wet wipes
  - Extras:
    - hair ties
    - slippers
