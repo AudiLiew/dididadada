@@ -1,7 +1,9 @@
 ---
 title: Items to Bring to the Hospital for Delivery
 permalink: /hospital-bag-checklist/ #false #
-date: 2020-02-04
+date: 2020-02-05
+heroImg: "2020/02/hospital-bag-hero.png"
+heroAlt: "Hospital Bag hero image"
 #mod_date: 2020-01-01
 meta_description: "Pack this list of items to prepare for your hospital delivery."
 
@@ -76,7 +78,7 @@ In this post, I'll list out the things to bring along to the hospital for the bi
 The majority of Singaporean mothers gave birth at around 38<sup>th</sup> to 39<sup>th</sup> week. So with that in mind, it is a good idea to pack your bag around the 36<sup>th</sup> week.
 
 <figure>
-  <img src="/assets/img/2020/01/live-births-by-period-of-gestation-chart-(2016-2018,-singapore).svg" alt="Chart of live births by period of gestation from 2016 to 2018, Singapore">
+  <img src="/assets/img/2020/02/live-births-by-period-of-gestation-chart-(2016-2018,-singapore).svg" alt="Chart of live births by period of gestation from 2016 to 2018, Singapore">
   <figcaption>Live births by period of gestation (2016 to 2018, Singapore). Data from {% extlink 'https://data.gov.sg/dataset/live-births-by-period-of-gestation-birth-weight-and-child-gender', 'https://data.gov.sg/dataset/live-births-by-period-of-gestation-birth-weight-and-child-gender' %}</figcaption>
 </figure>
 
