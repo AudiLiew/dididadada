@@ -1,3 +1,5 @@
+$darkMode: false;
+
 //_____________________________________________________
 // Names
 //_____________________________________________________
@@ -64,7 +66,7 @@ $grays: map-merge((
 ), $grays);
 
 $blue:      #2a418f;
-$mondayBlue:#3b8aff;
+$mondayBlue:#0560e6;
 $lightBlue: #f0f8ff;
 $darkBlue:  #4c5761;
 $someBlue:  #5a7cea;
@@ -103,14 +105,34 @@ $colors: map-merge((
   "gray-dark":  $gray-800
 ), $colors);
 
-$bodyBg:        $blackAndBlue;
-$bodyText:      $clayGray;
 
-$headerBg:      darken($bodyBg, 2%); //$darkBlue;
-$headerShadow:  $gray-900;
+$bodyBg:          gray('100');
+$bodyText:        gray('700');
 
-$mainNavLink:   $bodyText;
+$headerBg:        darken($bodyBg, 2%);
+$headerShadow:    gray('400');
+
+// 
+// Menu
+//
+$mainNavLink:     $bodyText;
 $mainNavHoverBg:  lighten($headerBg, 10%);
+$navbarMenuBg:    darken($bodyBg, 10%); 
+
+@if $darkMode {
+  $bodyBg:        $blackAndBlue;
+  $bodyText:      $clayGray;
+  
+  $headerBg:      darken($bodyBg, 2%);
+  $headerShadow:  $gray-900;
+  
+  // 
+  // Menu
+  //
+  $mainNavLink:     $bodyText;
+  $mainNavHoverBg:  lighten($headerBg, 10%);
+  $navbarMenuBg:    darken($bodyBg, 2%); 
+}
 
 $link: $mondayBlue;
 

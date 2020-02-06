@@ -78,7 +78,7 @@
 
     padding: 2rem 1rem;
 
-    background-color: gray('100');
+    background-color: $navbarMenuBg;
 
     visibility: hidden;
     transform: translateX(100%);
