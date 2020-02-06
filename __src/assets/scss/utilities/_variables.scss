@@ -1,3 +1,5 @@
+$darkMode: true;
+
 //_____________________________________________________
 // Names
 //_____________________________________________________
@@ -103,14 +105,25 @@ $colors: map-merge((
   "gray-dark":  $gray-800
 ), $colors);
 
+
+@if $darkMode {
+
+} @else {
+
+}
+
 $bodyBg:        $blackAndBlue;
 $bodyText:      $clayGray;
 
-$headerBg:      darken($bodyBg, 2%); //$darkBlue;
+$headerBg:      darken($bodyBg, 2%);
 $headerShadow:  $gray-900;
 
-$mainNavLink:   $bodyText;
+//
+// Menu
+//
+$mainNavLink:     $bodyText;
 $mainNavHoverBg:  lighten($headerBg, 10%);
+$navbarMenuBg:    darken($bodyBg, 2%);
 
 $link: $mondayBlue;
 
